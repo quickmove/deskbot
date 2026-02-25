@@ -38,6 +38,7 @@ CosyVoice/exp/
 
 # Claude
 .claude/
+conversation-*.txt
 
 # macOS
 .DS_Store
